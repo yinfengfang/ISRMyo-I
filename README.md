@@ -34,6 +34,8 @@ The sEMG signals of thirty hand gestures were colleced, as listed below:
 
 ## Authors
 Dr. Yinfeng Fang 
+Dr. Dalin ZHou
+Dr. Kairu Li
 Prof. Honghai Liu
 
 ## References
